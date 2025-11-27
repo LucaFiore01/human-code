@@ -1,5 +1,6 @@
-# PREPARAZIONE LASAGNE ALLA BOLOGNESE #
+# PREPARAZIONE LASAGNE ALLA BOLOGNESE 
 
+## ricettario
 
 - CONTROLLO DI AVERE UN RICETTARIO
  -SE HO IL RICETTARIO: verifico la presenza della ricetta;
@@ -7,9 +8,13 @@
 
 - ALTRIMENTI: effettuo una ricerca sul web e la utilizzo;
 
+## ingredienti
+
 - LISTA INGREDIENTI: (sedano, carote ecc...)
 
 - SE NON HO UNO DEGLI INGREDIENTI: me li procuro; 
+
+## utensili
 
 - LISTA UTENSILI: (coltelli, casseruole ecc...)
 
@@ -18,7 +23,7 @@
 
 - Porzionamento ingredienti
 
-- PREPARAZIONE:
+## preparazione
 
  - RAGU:
   - Trito sedano carote e cipolla ecc...
