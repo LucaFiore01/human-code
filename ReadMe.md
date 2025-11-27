@@ -6,7 +6,7 @@
  -SE HO IL RICETTARIO: verifico la presenza della ricetta;
  - SE SI: utilizzo la ricetta del ricettario;
 
-- ALTRIMENTI: effettuo una ricerca sul web e la utilizzo;
+- ALTRIMENTI: effettuo una ricerca sul web finché non ne trovo una e la utilizzo;
 
 ## ingredienti
 
@@ -20,37 +20,36 @@
 
 - DISPONGO GLI UTENSILI:
  - SE NE MANCANO UNO O PIÚ: me li procuro;
-
+ 
 - Porzionamento ingredienti
 
 ## preparazione
 
- - RAGU:
+ - PREPARAZIONE RAGÚ:
   - Trito sedano carote e cipolla ecc...
   - Trito la pancetta ecc...
  
- - PASTA FRESCA:
+ - PREPARAZIONE PASTA FRESCA:
   - Cucino gli spinaci...
   - Preparo l' impasto...
   - Lascio riposare 30 min...
 
- - BESCIAMELLA:
+ - PREPARAZIONE BESCIAMELLA:
   - Scaldo latte,burro e aggiungo farina...
 
- - COMPOSIZIONE:
+ - PREPARAZIONE COMPOSIZIONE:
   - prendo l'impasto;
   - stendo l'impasto;
   - Metto a bollire una sfoglia alla volta per 30 secondi;
   - Realizzo 6 strati in totale;
 
- - IMPIATTAMENTO:
+ - PREPARAZIONE IMPIATTAMENTO:
   - Divido il tutto in 8 porzioni;
   - Inserisco ogni porzione in un piatto;
   - Dispongo i piatti a tavola;
  
 
-   
-BUON APPETITO!!!
+- Si mangia insieme;
 
 
 
